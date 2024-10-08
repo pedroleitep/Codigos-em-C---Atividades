@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726976462 source:c:\users\pedro\onedrive\documentos\aeds 1\lista 3\ex7lista3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
