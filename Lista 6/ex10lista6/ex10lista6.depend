@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731443169 source:c:\users\pedro\onedrive\documentos\aeds 1\lista 6\ex10lista6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
