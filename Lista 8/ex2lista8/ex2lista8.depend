@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733537075 source:c:\users\pedro\onedrive\documentos\aeds 1\lista 8\ex2lista8\main.cpp
+	<iostream>
+	<string>
+	<locale>
+
